@@ -5,3 +5,4 @@ First smart contract
 - Two functions
 	- Change the message
 	- Retrieve the message
+- npm project
