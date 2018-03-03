@@ -4,7 +4,7 @@ contract Greetings {
     string message;
 
     function Greetings() {
-            message = "I am ready. Deployment Successful.";
+        message = "I am ready. Deployment Successful.";
     }
 
     function setGreetings(string _message) public {
